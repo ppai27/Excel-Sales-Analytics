@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Develop a comprehensive _[Customer performance report]_(https://github.com/ppai27/Excel-Sales-Analytics/blob/ebdd4e650799118ad865a62efe03d8e9f1c2c1e3/Customer%20Net%20Sales%20Performance.pdf) with actionable insights
+    **1.** Develop a comprehensive _[Customer performance report](https://github.com/ppai27/Excel-Sales-Analytics/blob/ebdd4e650799118ad865a62efe03d8e9f1c2c1e3/Customer%20Net%20Sales%20Performance.pdf)_ with actionable insights
 
     **2.** Execute an in-depth comparative analysis of _[market performance versus targeted sales metrics](https://github.com/ppai27/Excel-Sales-Analytics/blob/ebdd4e650799118ad865a62efe03d8e9f1c2c1e3/Market%20Performance%20Vs%20Target%20Report.pdf)_
 
